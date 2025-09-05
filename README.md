@@ -8,4 +8,4 @@
 - 🌱 Lagi ngulik **kotlin & Python**
 
 ## 📊 Statistik
-![GitHub Stats]([Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![GitHub Stats](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
