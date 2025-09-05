@@ -8,4 +8,4 @@
 - 🌱 Lagi ngulik **kotlin & Python**
 
 ## 📊 Statistik
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats]([Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
